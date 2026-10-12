@@ -1,0 +1,13 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
